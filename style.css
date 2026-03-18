@@ -1,0 +1,22 @@
+* {
+    font-family: poppins;
+}
+
+#faq {
+    background-color: white;
+    box-shadow: 0px 0px 8px lightgray;
+    border-radius: 15px;
+    border-color: black 1px;
+    padding: 12px;
+}
+
+#faqh1 {
+    font-size: larger;
+    font-weight: 600;
+    padding-bottom: 15px;
+}
+
+#design-by {
+    color: white;
+    font-weight: 600;
+}
